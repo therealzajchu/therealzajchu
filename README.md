@@ -19,6 +19,8 @@ Hey there! 👋 Welcome to my GitHub! 🚀
     🦀 Tauri
     🖌️ ImGui
     🎮 LWJGL
+    🎨 OpenGL
+    🌋 Vulkan
     🖥️ WDK
     📊 SQL
     
